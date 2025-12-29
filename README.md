@@ -33,7 +33,7 @@ I’m a software engineer currently diving deep into the MERN stack (MongoDB, Ex
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan8&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalan-khan-1-arsalan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arsalankhan1102004@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=arsalankhan8&icon=4&color=1)](https://visitcount.itsvg.in)
