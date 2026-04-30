@@ -1,5 +1,13 @@
 #  About Me:
-I’m a software engineer currently diving deep into the MERN stack (MongoDB, Express, React, Node.js).<br><br>I’m building a LinkedIn follow-up automation platform, focused on scalable backend APIs, clean frontend architecture, and real-world product thinking.<br><br>I enjoy turning complex requirements into simple, reliable web applications and continuously improving my engineering fundamentals.
+I’m a software engineer, I build systems, not just features.
+
+MERN stack is my toolkit, but product thinking is my edge.
+
+I care about what happens after launch performance, scale, retention.
+Clean architecture over quick hacks, always.
+
+I build MVPs, dashboards, admin panels, SaaS products.
+From idea to product, I build things people actually use.
 
 # Tech Stack:
 ### Frontend
