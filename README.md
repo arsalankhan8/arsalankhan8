@@ -45,13 +45,11 @@ From idea to product, I build things people actually use.
 
 # 📊 GitHub Stats
 
-<!-- FIXED: stable version (no undefined user error issues) -->
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arsalankhan8&show_icons=true&theme=radical&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalankhan8&show_icons=true&theme=rose&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arsalankhan8&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsalankhan8&theme=rose)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan8&layout=compact&theme=rose)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=arsalankhan8&layout=compact&theme=radical)
 
 ---
 
@@ -63,4 +61,5 @@ From idea to product, I build things people actually use.
 ---
 
 # 👀 Profile Views
-[![Visitor Count](https://visitcount.itsvg.in/api?id=arsalankhan8&icon=4&color=1)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arsalankhan8&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
